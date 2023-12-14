@@ -1,0 +1,14 @@
+node seed.js
+
+GET: localhost:3000/details
+GET: localhost:3000/details/3
+POST: localhost:3000/details
+PUT: localhost:3000/details/3
+DELETE localhost:3000/details/3
+
+{
+   "cust_id":"405",
+   "name":"Olajide Wale"
+}
+
+git branch -u origin/master
