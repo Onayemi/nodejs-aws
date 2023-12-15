@@ -8,10 +8,10 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.send(`
     <center>
+    <img src='https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_1280.jpg' width='400'  alt='Student Image' />
     <h1>CDI College Winnipeg Canada</h1>
-    <h3>Course Web and Mobile App Development</h3>
-    <h3>API Endpoint Developed By Taiwo Ajayi</h3>
-    <h3>Student ID : 680361762</h3>
+    <h2>API Endpoint Developed By Taiwo Ajayi</h2>
+    <h3>Course:  Web and Mobile App Development | Student ID : 680361762</h3>
     <h3>
     Fetch all  Get: http://35.182.248.242/details <br/><br/>
     Fetch By ID  Get: http://35.182.248.242/details/1 <br/><br/>
