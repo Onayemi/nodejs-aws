@@ -10,9 +10,9 @@ app.get('/', (req, res) => {
     <center>
     <h1>API Endpoint Develop By Taiwo Ajayi</h1>
     <h3>
-    Fetch All GET: localhost:3000/details <br/><br/>
-    Fetch by Id GET: localhost:3000/details/3 <br/><br/>
-    Create POST: localhost:3000/details <br/><br/>
+    Fetch all  Get: http://35.182.248.242/details <br/><br/>
+    Fetch By ID  Get: http://35.182.248.242/details/1 <br/><br/>
+    Create Details  Post: http://35.182.248.242/details <br/><br/>
     </h3>
     </center>
     `);
