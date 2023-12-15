@@ -8,7 +8,9 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.send(`
     <center>
-    <h1>API Endpoint Developed By Taiwo Ajayi </h1>
+    <h1>Web and Mobile App Development CDI Colleges Winnipeg </h1>
+    <h2>Endpoint API Developed By Taiwo Ajayi </h2>
+    <h3>Student No: 680361762 </h3>
     <h3>
     Fetch all  Get: http://35.182.248.242/details <br/><br/>
     Fetch By ID  Get: http://35.182.248.242/details/1 <br/><br/>
