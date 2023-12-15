@@ -8,7 +8,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
     res.send(`
     <center>
-    <h1>API Endpoint Develop By Taiwo Ajayi</h1>
+    <h1>API Endpoint Developed By Taiwo Ajayi </h1>
     <h3>
     Fetch all  Get: http://35.182.248.242/details <br/><br/>
     Fetch By ID  Get: http://35.182.248.242/details/1 <br/><br/>
